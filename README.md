@@ -28,7 +28,7 @@ Before running the project, ensure you have the following installed:
 ## Installation & Setup
 
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/mohdfurkan01/weather-mood-board.git
 cd weather-app
 
 2️⃣ Install Dependencies
