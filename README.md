@@ -2,7 +2,7 @@
 
 This is a weather application built with React.js that fetches real-time weather data using the OpenWeather API. The application dynamically updates the background based on weather conditions and provides a smooth user experience.
 
-🔗 **Live Demo:** [Weather Mood Board](https://atmosfeel.netlify.app/)
+🔗 💻**Live Demo:** [Weather Mood Board](https://atmosfeel.netlify.app/)
 
 ## Features
 
